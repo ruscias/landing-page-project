@@ -41,6 +41,8 @@ ul {
     gap: 16px;
 }
 
+
+
 .main {
     display: flex;
     flex-direction: column;
@@ -171,6 +173,7 @@ ul {
 
 .cta-box {
     background-color: #3882f6;
+    background-image: linear-gradient(to right, #65a0ff, #0e6aff);
     display: flex;
     justify-content: center;
     align-items: center;
